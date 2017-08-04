@@ -12,7 +12,7 @@ github_repo: "https://github.com/anti-tech/anti-tech.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Thechnology defines politics!"
-sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/IMG_3834.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
